@@ -1,19 +1,19 @@
 {
  "source": "Saido exchange, Duhok market (saidoco.com/m)",
  "board": {
-  "date": "2026-11-01",
-  "time": "11:40 am",
+  "date": "2026-11-02",
+  "time": "11:55 am",
   "usd": {
-   "sell": 1687,
-   "buy": 1677
+   "sell": 1686,
+   "buy": 1676
   },
   "eur": {
-   "sell": 1873,
-   "buy": 1858
+   "sell": 1875,
+   "buy": 1860
   },
   "gbp": {
-   "sell": 2230,
-   "buy": 2210
+   "sell": 2240,
+   "buy": 2220
   }
  },
  "checked": "2026-11-02",
@@ -47,6 +47,11 @@
    "date": "2026-11-01",
    "buy": 1677,
    "sell": 1687
+  },
+  {
+   "date": "2026-11-02",
+   "buy": 1676,
+   "sell": 1686
   }
  ]
 }
